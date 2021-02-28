@@ -1,0 +1,16 @@
+<div class="card-group noselect" style="overflow-x: hidden;">
+    <div class="col-4" *ngFor="let item of teamDetails">
+      <div class="card col-md-12" >
+        <a href="teams/indian-team">
+            <img draggable="false" [src]="item.img"
+             class="card-img-top" [alt]="item.name" height="270" width="150">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">
+            {{item.details}}
+          </p>
+        </div>
+      </div>
+    </div>   
+</div> 

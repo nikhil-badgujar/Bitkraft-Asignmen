@@ -1,0 +1,8 @@
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.navbar-custom {
+    height: 35px;
+    padding: 8px;
+  }

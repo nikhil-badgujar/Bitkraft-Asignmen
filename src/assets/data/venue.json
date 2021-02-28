@@ -1,0 +1,58 @@
+[
+    {
+        "ground_name" : "Wankhede",
+        "venue" : "Mumbai, Maharashra",
+        "location" : "https://www.google.com/maps/place/Wankhede+Stadium/@18.9388579,72.8235753,17z/data=!4m12!1m6!3m5!1s0x3be7d1e0f0a26a81:0x87d6e47e04df3916!2sWankhede+Stadium!8m2!3d18.9388528!4d72.825764!3m4!1s0x3be7d1e0f0a26a81:0x87d6e47e04df3916!8m2!3d18.9388528!4d72.825764"
+    },
+    {
+        "ground_name" : "Maharashtra Cricket Association Stadium",
+        "venue" : "Gahunje, Maharashtra",
+        "location" : "https://www.google.com/maps/place/Maharashtra+Cricket+Association+Stadium/@18.9688245,72.7676976,9z/data=!4m19!1m13!4m12!1m4!2m2!1d72.8159651!2d19.3436356!4e1!1m6!1m2!1s0x3bc2b08bf56aac53:0xed93cb0f5889f4dd!2sindian+cricket+ground+venues!2m2!1d73.7065161!2d18.6744633!3m4!1s0x3bc2b08bf56aac53:0xed93cb0f5889f4dd!8m2!3d18.6744633!4d73.7065161"
+    },
+    {
+        "ground_name" : "Brabourne Stadium",
+        "venue" : "Mumbai, Maharashra",
+        "location" : "https://www.google.com/maps/place/Brabourne+Stadium/@18.9322663,72.8225507,17z/data=!4m12!1m6!3m5!1s0x3be7d1e64b0e104f:0xe0cc7759694c6489!2sBrabourne+Stadium!8m2!3d18.9322612!4d72.8247394!3m4!1s0x3be7d1e64b0e104f:0xe0cc7759694c6489!8m2!3d18.9322612!4d72.8247394"
+    },
+    {
+        "ground_name" : "D Y Patil Sports Stadium",
+        "venue" : "Navi Mumbai, Maharashtra",
+        "location" : "https://www.google.com/maps/place/D+Y+Patil+Sports+Stadium/@19.042088,73.0244979,17z/data=!4m12!1m6!3m5!1s0x3be7c3c53b1e255b:0x3fa8b73a42118233!2sD+Y+Patil+Sports+Stadium!8m2!3d19.0420829!4d73.0266866!3m4!1s0x3be7c3c53b1e255b:0x3fa8b73a42118233!8m2!3d19.0420829!4d73.0266866"
+    },
+    {
+        "ground_name" : "Rajiv Gandhi International Cricket Stadium",
+        "venue" : "Uppal, Hyderabad",
+        "location" : "https://www.google.com/maps/search/Rajiv+Gandhi+International+Cricket+Stadium,+Hyderabad,+Uppal,+Hyderabad,+Telangana+500039/@17.4058555,78.5477587,17z/data=!3m1!4b1"
+    },
+    {
+        "ground_name" : "N Modi Stadium",
+        "venue" : "Ahmedabad, Gujarat",
+        "location" : "https://www.google.com/maps/place/Narendra+Modi+Stadium/@23.0918171,72.5953388,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83c17dc37ee3:0xab976f6a3a1f932d!8m2!3d23.0918122!4d72.5975275"
+    },
+    {
+        "ground_name" : "Feroz Shah Kotla Stadium",
+        "venue" : "Delhi",
+        "location" : "https://www.google.com/maps/place/Feroz+Shah+Kotla+Stadium/@28.637923,77.2431735,15z/data=!4m5!3m4!1s0x0:0x9eb7b9e749e5e743!8m2!3d28.637923!4d77.2431735"
+    },
+    {
+        "ground_name" : "Eden Gardens",
+        "venue" : "Kolkata, West Bengal",
+        "location" : "https://www.google.com/maps/place/Eden+Gardens/@22.5646081,88.3432645,15z/data=!4m2!3m1!1s0x0:0x1d1b1884bdbbbd79?sa=X&ved=2ahUKEwjWlrHb9IrvAhWIzjgGHRA0ARsQ_BIwHXoECDkQBQ"
+    },
+    {
+        "ground_name" : "Jawaharlal Nehru Stadium",
+        "venue" : "Kochi, Kerala",
+        "location" : "https://www.google.com/maps/place/Jawaharlal+Nehru+Stadium/@9.9972822,76.300723,15z/data=!4m2!3m1!1s0x0:0xc8b2f4d8eae5cacd?sa=X&ved=2ahUKEwiq5Of79IrvAhXSyzgGHVNFCWIQ_BIwHnoECD0QBQ"
+    },
+    {
+        "ground_name" : "Himachal Pradesh Cricket Association Stadium",
+        "venue" : "Dharamshala, Himachal Pradesh",
+        "location" : "https://www.google.com/maps/place/Himachal+Pradesh+Cricket+Association+Stadium/@32.1976301,76.3258269,15z/data=!4m2!3m1!1s0x0:0xc3c166f4c4b7e252?sa=X&ved=2ahUKEwinn6KT9YrvAhU1zzgGHSp0AFUQ_BIwInoECD4QBQ"
+    },
+    {
+        "ground_name" : "Shaheed Veer Narayan Singh International Cricket Stadium",
+        "venue" : "Raipur, Chhattisgarh,",
+        "location" : "https://www.google.com/maps/place/Shaheed+Veer+Narayan+Singh+International+Cricket+Stadium/@21.2034321,81.8217358,17z/data=!3m1!4b1!4m5!3m4!1s0x3a28c0dfbd843065:0x7fc8579ac41214f3!8m2!3d21.2034271!4d81.8239245"
+    }
+
+]

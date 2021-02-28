@@ -1,0 +1,16 @@
+<div class="container card-group noselect" style="padding: 10px; ">
+    <div class="col-3" *ngFor="let item of batsmanList">
+      <div class="card h-100" *ngIf="item.role == 'Batsman'">
+        <a href="">
+            <img draggable="false" [src]="item.image"
+             class="card-img-top" [alt]="item.name" width="50px" height="300px">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">
+            {{item.details}}
+          </p>
+        </div>
+      </div>      
+    </div>   
+</div>

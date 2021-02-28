@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Test cricket",
+        "details" : "Test cricket is the form of the sport of cricket with the longest match duration, and is considered the game's highest standard. Rotary Test matches are played between national representative teams that have been granted Test status, as determined and conferred by the International Cricket Council."
+    },
+    {
+        "name" : "One Day International",
+        "details" : "A One Day International is a form of limited overs cricket, played between two teams with international status, in which each team faces a fixed number of overs, currently 50, with the game lasting up to 8 hours. The Cricket World Cup, generally held every four years, is played in this format."
+    },
+    {
+        "name" : "Twenty20",
+        "details" : "Image result for t20 match details Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings. The key feature is that each team bats for a maximum of 20 overs."
+    }
+]

@@ -1,0 +1,16 @@
+<div class="container">
+<table class="table table-borderless noselect">
+    <tbody>
+      <tr *ngFor="let item of countriesList">        
+        <td>            
+            <img draggable="false" src={{item.link1}} alt="">
+        </td>
+        <td class="td-left">{{item.name1}}</td>
+        <td>
+            <img draggable="false" src={{item.link2}} alt="">
+        </td>
+        <td class="td-left">{{item.name2}}</td>
+      </tr>
+    </tbody>
+</table>
+</div>

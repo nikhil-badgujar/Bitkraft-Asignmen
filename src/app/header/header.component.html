@@ -1,0 +1,57 @@
+<ul class="nav nav-pills nav-justified navbar-custom">
+  <a class="navbar-brand" style="padding: 2.5px;" href="cricketUpdates"><b>Cricket Updates</b></a>
+  <li>
+    <div class="dropdown">
+      <a class="nav-link dropdown-toggle" href="countries">Countries</a>
+      <div class="dropdown-menu" role="menu" aria-labelledby="dLabel"> 
+        <a class="dropdown-item" *ngFor="let item of countryList" [href]="item.url">{{item.name}}</a>   
+      </div>
+    </div> 
+  </li>
+
+  <li class="nav-item">
+    <div class="dropdown">
+      <a class="nav-link dropdown-toggle" href="teams">Teams</a>      
+      <div class="dropdown-menu" role="menu" aria-labelledby="dLabel"> 
+        <a class="dropdown-item" *ngFor="let item of countryList" [href]="item.url">{{item.name}} team</a>  
+      </div>
+    </div> 
+  </li>
+
+  <li class="nav-item">
+    <div class="dropdown">
+      <a class="nav-link dropdown-toggle" href="players">Players</a>      
+      <div class="dropdown-menu" role="menu" aria-labelledby="dLabel"> 
+        <a class="dropdown-item" href="players/batsman" *ngFor="let item of player_dd">{{item.dd}}</a>
+      </div>
+    </div> 
+  </li>
+
+  <li class="nav-item">
+    <div class="dropdown">
+      <a class="nav-link dropdown-toggle" href="matches">Matches</a>      
+      <div class="dropdown-menu" role="menu" aria-labelledby="dLabel"> 
+        <a class="dropdown-item" href="#" *ngFor="let item of matches_dd">
+          <span *ngIf="item.dd == 'Match Summary'">
+            <hr class="dropdown-divider">
+          </span>
+          {{item.dd}}
+        </a>
+        
+      </div>
+    </div> 
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link" href="venues">Venues</a>
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link" href="results">Results</a>
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link" href="tournament-scores">Tournament Score</a>
+  </li>
+
+</ul>

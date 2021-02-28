@@ -1,0 +1,80 @@
+
+    [
+        {
+            "jersey_no": 18,
+            "team": "India",
+            "name": "Virat Kohli", 
+            "role": "Batsman", "captain" : true,
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/164.png"
+        },
+        {
+            "jersey_no": 45,
+            "team": "India",
+            "name": "Rohit Sharma", 
+            "role": "Batsman", "viceCaptain" : true, 
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/107.png"
+        },
+        {
+            "jersey_no": 42,
+            "team": "India",
+            "name": "Shikhar Dhawan", 
+            "role": "Batsman",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/41.png"
+        },
+        {
+            "jersey_no": 41,
+            "team": "India",
+            "name": "Shreyas Iyer", 
+            "role": "Batsman",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/1563.png"
+        },
+        {
+            "jersey_no": 33,
+            "team": "India",
+            "name": "Hardik Pandya", 
+            "role": "All rounder",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/2740.png"
+        },
+        {
+            "jersey_no": 99,
+            "team": "India",
+            "name": "Ravishchandra Ashwin", 
+            "role": "All rounder",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/8.png"
+        },
+        {
+            "jersey_no": 17,
+            "team": "India",
+            "name": "Rishab Pant", 
+            "role": "Wicket Keeper",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/2972.png"
+        },
+        {
+            "jersey_no": 93,
+            "team": "India",
+            "name": "Jasprit Bumrah", 
+            "role": "Bowler",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/1124.png"
+        },
+        {
+            "jersey_no": 11,
+            "team": "India",
+            "name": "Mohammed Shami", 
+            "role": "Bowler",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/94.png"
+        },
+        {
+            "jersey_no": 3, 
+            "team": "India", 
+            "name": "Yuzvendra Chahal", 
+            "role": "Bowler",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/111.png"
+        },
+        {
+            "jersey_no": 97,
+            "team": "India",
+            "name": "Ishant Sharma", 
+            "role": "Bowler",
+            "image" : "https://playerimages.platform.bcci.tv/generic/260x350/38.png"
+        }
+    ]

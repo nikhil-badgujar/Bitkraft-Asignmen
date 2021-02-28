@@ -1,0 +1,17 @@
+[
+    {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+        "name" : "Indian team",
+        "details" : "The Board of Control for Cricket in India is the governing body for cricket in India. The board was formed in December 1928 as a society, registered under the Tamil Nadu Societies Registration Act."
+    },
+    {
+        "img" : "http://d1f7geppf3ca7.cloudfront.net/origin/523870/1533727341743_st-george-cross.gif",
+        "name" : "England team",
+        "details" : "The England cricket team represents England in international cricket. Since 1997, it has been governed by the England and Wales Cricket Board, having been previously governed by Marylebone Cricket Club since 1903."
+    },
+    {
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png",
+        "name" : "Australian team",
+        "details" : "The Australia men's national cricket team represents Australia in men's international cricket. As the joint oldest team in Test cricket history, playing in the first ever Test match in 1877."
+    }
+]

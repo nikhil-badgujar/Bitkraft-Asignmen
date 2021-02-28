@@ -1,0 +1,27 @@
+<div class="container">
+<table class="table table-striped " id="sortTable">
+    <thead class="thead-dark noselect ">
+        <tr>
+        <th scope="col" >Jersey Number&nbsp;</th>
+        <th scope="col" >Team</th>
+        <th scope="col" >Player Name</th>
+        <th scope="col" >Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of players" class="noselect">        
+            <!--(click)="sort('jersey_no')"      | orderBy : key: reverse -->
+        <td >{{item.jersey_no}}</td>
+        <td>{{item.team}}</td>
+        <td>{{item.name}}
+            <span *ngIf="item.captain">(Captain)</span>
+            <span *ngIf="item.viceCaptain">(Vice Captain)</span>
+        </td>
+        <td>{{item.role}}</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<script>
+    $('#sortTable').DataTable();
+</script>

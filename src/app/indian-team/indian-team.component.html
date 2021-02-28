@@ -1,0 +1,11 @@
+<div class="container">
+    <p class="title noselect"><b>Team India</b></p>
+    <div class="card-group" style="padding: 0px 70px 0px;">
+        <div class="col-2 " *ngFor="let item of playerNameImg">
+            <img class="noselect" [src]="item.image" alt=""><br>
+            {{item.name}}
+            <p *ngIf="item.captain"><b>Captain</b></p>
+            <p *ngIf="item.viceCaptain"><b>Vice Captain</b></p>
+        </div>
+    </div>
+</div>

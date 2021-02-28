@@ -1,0 +1,10 @@
+<div class="container-fluid" style="border:1px solid #cecece">
+    <p class="title noselect" style="padding: 0px 550px 0px; background-color: aqua;"><b>Venues in India</b></p>
+    <div class="row noselect">
+        <div class="col-3 " *ngFor="let item of venueList" style="padding: 25px;">
+            <h5 class="card-title">{{item.ground_name}}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{item.venue}}</h6>
+            <a [href]="item.location" target=”_blank” class="card-link">view locaion</a>
+        </div>
+    </div>    
+</div>

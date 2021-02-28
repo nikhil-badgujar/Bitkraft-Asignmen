@@ -1,0 +1,11 @@
+<div class="card-group">
+    <div class="col-4 align-items-stretch d-flex" *ngFor="let item of matchesList">
+      <div class="card col-md-12">
+        <div class="card-body">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">{{item.details}}</p>
+          <a href="/matches" class="btn btn-primary ">Check lattest match</a>
+        </div>
+      </div>
+    </div>    
+  </div>
